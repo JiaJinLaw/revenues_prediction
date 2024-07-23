@@ -1,4 +1,4 @@
-# revenues_prediction
+# Regression Analysis of Revenues Prediction Based on Employees Numbers
 This data science project aims to leverage data science techniques to explore and analyze the relationship between key factors affecting a company’s revenue and its potential for achieving positive revenue growth in the upcoming year, 2023.
 
 The dataset at hand contains valuable information about 600 companies, including their revenue in 2022, employee count, past revenue growth, industry category, and location category.
