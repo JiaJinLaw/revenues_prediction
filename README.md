@@ -11,4 +11,4 @@ The primary objectives of this project are:
 - The second objective of this project is to build a predictive model that can assess the likelihood of a company achieving positive revenue growth in the year 2023. This predictive capability can be invaluable for business planning, risk assessment, and investment strategies. By analyzing historical data, we can identify patterns and indicators that contribute to a company’s success in achieving positive revenue growth.
 
 
-HTML for this project:
+Kindly download provided HTML file for completed report.
