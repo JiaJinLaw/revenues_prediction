@@ -12,4 +12,6 @@ The primary objectives of this project are:
 
 Kindly download provided HTML file for completed report.
 
+RPUBS LINK: http://rpubs.com/ganjingwen/1135780
+
 Contributors: Law(me), Yang, Gan, Shafiqah and Spencer.
